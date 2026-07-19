@@ -1,0 +1,2 @@
+# constrained_manifold_scheduling
+数模校赛论文《约束流形上的导航与进化：酒厂智能排产系统的闭环稳健调控模型》配套源代码
